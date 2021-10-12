@@ -1,6 +1,6 @@
 # DHARMA-Initiative
-
-
+  
+    sd
 Dharma Initiative Button platform provides a dead man switch security.
 Journalists or individuals who require to keep their own safety by keeping specific information as “private” 
 When using Dharma an individual can securely upload digital assets , such as documents or incriminating videos. 
